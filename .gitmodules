@@ -1,0 +1,3 @@
+[submodule "OpenBSD-VM-at-AppleSilicon"]
+	path = OpenBSD-VM-at-AppleSilicon
+	url = https://github.com/xoro/OpenBSD-VM-at-AppleSilicon.git
