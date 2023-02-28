@@ -1,0 +1,23 @@
+= Run Robotframework Tests against a OpenBSD VM build on Apple silicon
+
+:Author:                         Timo Pallach
+:Email:                          timo@pallach.de
+:sectnums:
+:toc:
+
+TODO
+
+== Getting Started
+
+=== Prerequisites
+
+We need to get this repo and the submodule via git:
+
+[source,sh]
+[subs="verbatim,attributes"]
+----
+git clone https://github.com/xoro/OpenBSD-VM-with-robotframework-test.git
+cd OpenBSD-VM-with-robotframework-test
+git submodule init
+git submodule update
+----
